@@ -1,8 +1,8 @@
 ## Hi there 👋
-This is the organization containing the six compiler projects from the Compilers course.\
-The first project is a simple visitor model practice that'll be applied in later projects.\
-The second project is a simple calculator implemented from scratch.\ 
-The last four projects together build a compiler, as specified in the next segment.\ 
+This is the organization containing the six compiler projects from the Compilers course. \
+The first project is a simple visitor model practice that'll be applied in later projects. \
+The second project is a simple calculator implemented from scratch. \ 
+The last four projects together build a compiler, as specified in the next segment. \ 
 
 ## a LR(1) compiler running on x86 machines. It was separated into 4 parts.
 
